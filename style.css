@@ -1,0 +1,64 @@
+*{
+    box-sizing: content-box;
+}
+body{
+    background-color: antiquewhite;
+   
+}
+
+article h2{
+    text-align: center;
+    font-size: 3em;
+}
+article p{
+    text-justify: auto;
+    margin: 3px 18vw 3px 18vw;
+    font-weight: bold;
+}
+strong {
+    text-justify: auto;
+    margin: 3px 18vw 3px 15vw;
+}
+
+
+footer{
+    margin-top: 10%;
+    text-align: center;
+    color: azure;
+    background-color: black;
+    font-size: 1.2em;
+    height: 100px;
+}
+img{
+    width: 200px;
+    height: 300px;
+    margin: 0px 40% 0px 40%;
+}
+
+.hobby h2{
+    text-align: center;
+}
+.hobby ul{
+    text-align: center;
+    font-weight: bold;
+    list-style-type: none
+}
+
+nav {
+    display: flex; 
+    justify-content: space-between; 
+    padding: 1rem 2rem; 
+    background: #cfd8dc; 
+  }
+  
+  nav ul {
+    display: flex; 
+    list-style: none;
+  }
+  
+  nav li {
+    padding-left: 1rem;
+  }
+  #h1id1{
+    text-align: center;
+  }
